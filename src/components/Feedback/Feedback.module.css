@@ -1,0 +1,15 @@
+.positive {
+    color: green;
+    font-weight: 600;
+}
+.list {
+    background-color:  rgb(205, 196, 176);
+    padding: 20px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.total {
+    font-weight: 600;
+    color:rgb(201, 137, 0)
+}

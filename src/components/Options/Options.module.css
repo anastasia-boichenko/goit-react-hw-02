@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+.btn {
+    background-color: rgb(153, 102, 0);
+    color: bisque;
+
+    &:hover {
+        background-color: rgb(182, 121, 1);
+        transition: all 350ms;
+    }
+}
+.resetBtn {
+    background-color: rgb(174, 1, 1);
+    color: rgb(245, 193, 193);
+    &:hover {
+        transition: all 350ms;
+        background-color: rgb(212, 0, 0);
+    }
+}
